@@ -10,6 +10,7 @@ const Hero = () => {
             "Salut, c est nico",
             "Bienvenue sur mon site ",
             "test pour voir si c est good ",
+            "EZ Typewriter ",
         ],
         loop: true,
         delaySpeed: 2000,
